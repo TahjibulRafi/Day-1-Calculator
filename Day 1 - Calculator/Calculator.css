@@ -1,0 +1,26 @@
+#calculator {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 10px solid rgb(0, 17, 255);
+  }
+  
+  input,
+  select,
+  button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  output {
+    width: 100%;
+    height: 300px;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #00198a;
+    color: #fbff00;
+    cursor: pointer;
+  }
+  
